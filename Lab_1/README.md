@@ -3,4 +3,4 @@
 # lab assignment 1
 
 NSF access ID: hsultana
-email: habiba@tamu.edu
+Email: habiba@tamu.edu

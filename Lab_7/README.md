@@ -1,1 +1,0 @@
-# sultana-online-GEOG676-spring2026-final
